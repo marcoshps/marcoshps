@@ -5,7 +5,7 @@
 - ✈ Cursando Piloto Comercial
 - 🗣 discord - Marcos#9999
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-yoda" src="https://media.discordapp.net/attachments/879862259273302016/880533350467665940/darkside.jpg">
+  <p align="center"><img src="https://media.discordapp.net/attachments/879862259273302016/880533350467665940/darkside.jpg"></p>
  </div>
 <div style="display: inline_block"><br>
   <a href="https://github.com/marcoshps">   
